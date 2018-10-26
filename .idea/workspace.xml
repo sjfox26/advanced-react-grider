@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3062b0ea-a17d-4198-b695-a3cdfe8de8de" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CommentBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CommentBox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CommentList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CommentList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/requireAuth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/requireAuth.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,14 +41,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="8446" />
+          <entry key="JavaScript" value="8447" />
           <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="env" value="14" />
-          <entry key="js" value="8446" />
+          <entry key="js" value="8447" />
         </counts>
       </usages-collector>
     </session>
@@ -73,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/middlewares/async.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="41" selection-start-column="41" selection-end-column="41" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -124,8 +121,8 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="73" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="51" />
     <option name="width" value="1440" />
     <option name="height" value="813" />
   </component>
@@ -185,15 +182,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540218312178</updated>
-      <workItem from="1540218314427" duration="29363000" />
+      <workItem from="1540218314427" duration="29593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29363000" />
+    <option name="totallyTimeSpent" value="29593000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="73" width="1440" height="813" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="813" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -428,8 +425,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/middlewares/async.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="41" selection-start-column="41" selection-end-column="41" />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
